@@ -7,7 +7,7 @@ This directory contains SQL scripts used for performing CRUD operations in the d
 
 ## Operations
 - **Create:** Create database tables.
-- **Read:** Retrieve records.
+- **Insert:** Insert records.
 - **Update:** Modify existing records.
 - **Delete:** Remove records.
 
